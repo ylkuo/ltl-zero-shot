@@ -24,7 +24,7 @@ mccabe==0.6.1
 mpi4py==3.0.3
 networkx==2.3
 nltk==3.6.6
-numpy==1.21.0
+numpy==1.22.0
 olefile==0.46
 opencv-python==4.2.0.32
 opt-einsum==0+untagged.49.gdbede45.dirty
