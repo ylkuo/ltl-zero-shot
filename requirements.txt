@@ -2,7 +2,7 @@ absl-py==0.8.1
 astor==0.7.1
 astroid==2.4.2
 -e git+https://github.com/openai/baselines.git@665b888eeb688396894455a0d94febc4f712e0c0#egg=baselines
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.13.1
 Click==7.0
 cloudpickle==1.2.2
