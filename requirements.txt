@@ -46,5 +46,5 @@ torchvision==0.4.1
 tqdm==4.37.0
 typed-ast==1.4.1
 webencodings==0.5.1
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wrapt==1.11.2
